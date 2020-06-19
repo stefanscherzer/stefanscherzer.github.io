@@ -4,7 +4,7 @@ The Maxx is an American comic book series created by Sam Kieth in 1993 and origi
 The comic book, starring an eponymous purple hero, spawned an animated series on MTV.
 More on Wikipedia: [Link](https://en.wikipedia.org/wiki/The_Maxx)
 
-## Character attributes
+## Character Attributes
 
 * Super Name: Maxx
 * Real Name: Dave
@@ -18,3 +18,7 @@ More on Wikipedia: [Link](https://en.wikipedia.org/wiki/The_Maxx)
   * Super Speed
   * Super Strength
   * Unarmed Combat
+
+## Character Quote
+
+Pain lasts, kid. It's how you know you're alive. Sometimes I think this growing up thing is just pain management.
