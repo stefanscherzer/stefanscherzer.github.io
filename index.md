@@ -22,3 +22,5 @@ More on Wikipedia: [Link](https://en.wikipedia.org/wiki/The_Maxx)
 ## Character Quote
 
 > Pain lasts, kid. It's how you know you're alive. Sometimes I think this growing up thing is just pain management.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/68/The_Maxx_cover_1.jpg" alt="The Maxx" />
